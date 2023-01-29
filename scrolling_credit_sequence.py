@@ -16,7 +16,7 @@ pink = (255,200,200)
 movie_credits = '''
 This video showing how to scroll text
 using python (pygame) has been made by 
-Abdulkarim Getachew for UpWork proposal.
+Abdulkarim Getachew.
 
 Example text:
 
